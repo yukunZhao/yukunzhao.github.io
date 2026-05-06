@@ -17,10 +17,10 @@ Education
 
 Work Experience
 ======
-* **Associate Professor** | School of Artificial Intelligence, Shandong University | Dec 2025 - Present
-* **Staff Engineer** | Search Strategy Department, Baidu Inc. | Sep 2020 - Dec 2025
-* **Senior Engineer** | Recommendation Algorithm Department, Alibaba Group | Apr 2019 - Sep 2020
-* **Engineer** | Recommendation Algorithm Department, JD.com, Inc. | Jun 2017 - Apr 2019
+* **Associate Professor**, Shandong University, Dec 2025 - Present
+* **Staff Engineer**, Baidu Inc., Sep 2020 - Dec 2025
+* **Senior Engineer**, Alibaba Group, Apr 2019 - Sep 2020
+* **Engineer**, JD.com, Inc., Jun 2017 - Apr 2019
 
 Research Interests
 ======
