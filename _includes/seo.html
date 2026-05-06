@@ -110,6 +110,52 @@
 {% if site.yandex_site_verification %}
   <meta name="yandex-verification" content="{{ site.yandex_site_verification }}">
 {% endif %}
+
+<!-- Structured Data for SEO -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Yukun Zhao",
+  "alternateName": "赵玉琨",
+  "jobTitle": "Associate Professor",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Shandong University",
+    "department": "School of Artificial Intelligence"
+  },
+  "alumniOf": [
+    {
+      "@type": "Organization",
+      "name": "Shandong University"
+    },
+    {
+      "@type": "Organization",
+      "name": "Northeastern University"
+    }
+  ],
+  "workExperience": [
+    {
+      "@type": "Organization",
+      "name": "Baidu Inc.",
+      "jobTitle": "Staff Engineer"
+    },
+    {
+      "@type": "Organization", 
+      "name": "Alibaba Group",
+      "jobTitle": "Senior Engineer"
+    },
+    {
+      "@type": "Organization",
+      "name": "JD.com",
+      "jobTitle": "Engineer"
+    }
+  ],
+  "knowsAbout": ["Natural Language Processing", "Large Language Models", "Information Retrieval", "Language Agents", "Retrieval-Augmented Generation"],
+  "url": "https://yukunzhao.github.io/"
+}
+</script>
+
 <!-- end SEO -->
 
 <!-- Open Graph protocol data (https://ogp.me/), used by social media -->

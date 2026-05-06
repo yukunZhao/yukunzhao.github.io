@@ -2,6 +2,7 @@
 permalink: /
 title: "About Me"
 author_profile: true
+description: "Yukun Zhao is an Associate Professor at Shandong University, former Staff Engineer at Baidu Inc. Research interests include NLP, LLMs, Information Retrieval, and Language Agents."
 redirect_from: 
   - /about/
   - /about.html
