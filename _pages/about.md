@@ -11,9 +11,9 @@ Yukun Zhao is an Associate Professor at the School of Artificial Intelligence, S
 
 Prior to joining Shandong University, he served as a Staff Engineer at Baidu Inc. for nearly five years. During his tenure, he led core initiatives in trustworthy LLMs, retrieval-augmented generation (RAG), question answering, and dialogue systems. His work has powered widely used platforms, including Baidu Web Search and Multimodal Search, reaching billions of users.
 
-His research has been published at top-tier conferences such as ACL, NAACL, COLING, EMNLP, and SIGIR, addressing fundamental challenges in AI, including hallucination, robustness, generalization, and visual-linguistic grounding. Currently, his latest research focuses on the stability of LLMs and the development of reasoning language agents. His research philosophy centers on translating academic advancements into real-world impact. He strives to tackle problems that are both scientifically fundamental and practically valuable.
+His research has been published at top-tier conferences such as ACL, NAACL, COLING, EMNLP, and SIGIR, addressing fundamental challenges in LLM deployment, including hallucination, robustness, generalization, and visual-linguistic grounding. Currently, his latest research focuses on the stability of LLMs and the development of reasoning language agents. His research philosophy centers on translating academic advancements into real-world impact. He strives to tackle problems that are both scientifically fundamental and practically valuable.
 
-**Prospective Students:** Dr. Zhao is actively looking for self-motivated undergraduate and Master's students to join his research group. If you are interested in his research, please feel free to contact him via email (zhaoyukun@sdu.edu.cn).
+Prospective Students: He is actively looking for self-motivated undergraduate and Master's students to join his research group. If you are interested in his research, please feel free to contact him via email (zhaoyukun@sdu.edu.cn).
 
 ## Research Interests
 
