@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Yukun Zhao is an Associate Professor at the School of Artificial Intelligence, Shandong University. He received his Ph.D. from Shandong University in 2024, advised by Professor Zhaochun Ren and Dr. Dawei Yin. His research interests primarily lie in Natural Language Processing (NLP), Information Retrieval (IR), Large Language Models (LLMs), and Language Agents.
+**Yukun Zhao** is an Associate Professor at the School of Artificial Intelligence, Shandong University. He received his Ph.D. from Shandong University in 2024, advised by Professor Zhaochun Ren and Dr. Dawei Yin. His research interests primarily lie in Natural Language Processing (NLP), Information Retrieval (IR), Large Language Models (LLMs), and Language Agents.
 
 Prior to joining Shandong University, he served as a Staff Engineer at Baidu Inc. for nearly five years. During his tenure, he led core initiatives in trustworthy LLMs, retrieval-augmented generation (RAG), question answering, and dialogue systems. His work has powered widely used platforms, including Baidu Web Search and Multimodal Search, reaching billions of users.
 
 His research has been published at top-tier conferences such as ACL, NAACL, COLING, EMNLP, and SIGIR, addressing fundamental challenges in LLM deployment, including hallucination, robustness, generalization, and visual-linguistic grounding. Currently, his latest research focuses on the stability of LLMs and the development of reasoning language agents. His research philosophy centers on translating academic advancements into real-world impact. He strives to tackle problems that are both scientifically fundamental and practically valuable.
 
-Prospective Students: He is actively looking for self-motivated undergraduate and Master's students to join his research group. If you are interested in his research, please feel free to contact him via email (zhaoyukun@sdu.edu.cn).
+**Prospective Students:** He is actively looking for self-motivated undergraduate and Master's students to join his research group. If you are interested in his research, please feel free to contact him via email (zhaoyukun@sdu.edu.cn).
 
 ## Research Interests
 
@@ -27,7 +27,7 @@ Prospective Students: He is actively looking for self-motivated undergraduate an
 ## Publications
 
 **Task Knowledge Injection via Interpolations and Reinstatement for Large Language Model Generalization**  
-ACL 2025 (CCF A)  
+ACL 2025 Findings (CCF A)  
 **Yukun Zhao**, Lingyong Yan, Zhenyang Li, Shuaiqiang Wang, Zhumin Chen, Zhaochun Ren, Dawei Yin
 
 **Knowing What LLMs DO NOT Know: A Simple Yet Effective Self-Detection Method**  
@@ -43,7 +43,7 @@ NAACL 2024 (CCF B, TH-CPL A)
 Dongsheng Zhu, Xunzhu Tang, Weidong Han, Jinghui Lu, **Yukun Zhao**, Guoliang Xing, Junfeng Wang, Dawei Yin
 
 **DiQAD: A Benchmark Dataset for Open-domain Dialogue Quality Assessment**  
-EMNLP 2023 (CCF B, TH-CPL A)  
+EMNLP 2023 Findings (CCF B, TH-CPL A)  
 **Yukun Zhao**, Lingyong Yan, Weiwei Sun, Chong Meng, Shuaiqiang Wang, Zhicong Cheng, Zhaochun Ren, Dawei Yin
 
 **Feature-level Debiased Natural Language Understanding**  
