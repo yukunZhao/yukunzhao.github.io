@@ -17,23 +17,10 @@ Education
 
 Work Experience
 ======
-* **Associate Professor** | School of Artificial Intelligence, Shandong University
-  * Dec 2025 - Present
-  * Research Interests: NLP & IR, specializing in LLM reasoning, complex reasoning, and language agents.
-
-* **Staff Engineer** | Baidu Inc., Search Strategy Department
-  * Sep 2020 - Dec 2025
-  * Tech Lead for RAG in Multimodal Search & QA Teams
-  * Tech Lead for Machine Reading Comprehension in Question Answering Team
-  * Tech Lead for Dialogue System Team
-
-* **Senior Engineer** | Alibaba Group, Recommendation Algorithm Department
-  * Apr 2019 - Sep 2020
-  * Core Developer for Taobao APP Homepage "Guess You Like" Recommendation
-
-* **Engineer** | JD.com, Inc., Recommendation Algorithm Department
-  * Jun 2017 - Apr 2019
-  * Core Developer for Jingdong APP Homepage "Guess You Like" Recommendation
+* **Associate Professor** | School of Artificial Intelligence, Shandong University | Dec 2025 - Present
+* **Staff Engineer** | Search Strategy Department, Baidu Inc. | Sep 2020 - Dec 2025
+* **Senior Engineer** | Recommendation Algorithm Department, Alibaba Group | Apr 2019 - Sep 2020
+* **Engineer** | Recommendation Algorithm Department, JD.com, Inc. | Jun 2017 - Apr 2019
 
 Research Interests
 ======
