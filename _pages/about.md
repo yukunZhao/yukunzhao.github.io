@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**Yukun Zhao** is an Associate Professor at the School of Artificial Intelligence, Shandong University, as a member of [GAI lab](https://gail.sdu.edu.cn/en/index.htm). He received his Ph.D. from Shandong University in 2024, advised by [Professor Zhaochun Ren](https://renzhaochun.github.io/) and [Dr. Dawei Yin](https://www.yindawei.com/). His research interests primarily lie in Natural Language Processing (NLP), Information Retrieval (IR), Large Language Models (LLMs), and Language Agents.
+**Yukun Zhao** is an Associate Professor at the School of Artificial Intelligence, Shandong University, as a member of [GAI lab](https://gail.sdu.edu.cn/en/index.htm). He received his Ph.D. from Shandong University in 2024, advised by [Prof. Zhaochun Ren](https://renzhaochun.github.io/) and [Dr. Dawei Yin](https://www.yindawei.com/). His research interests primarily lie in Natural Language Processing (NLP), Information Retrieval (IR), Large Language Models (LLMs), and Language Agents.
 
 Prior to joining Shandong University, he served as a Staff Engineer at Baidu Inc. for nearly five years. During his tenure, he led core initiatives in trustworthy LLMs, retrieval-augmented generation (RAG), question answering, and dialogue systems. His work has powered widely used platforms, including Baidu Web Search and Multimodal Search, reaching billions of users.
 
