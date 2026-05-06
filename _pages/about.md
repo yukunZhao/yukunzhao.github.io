@@ -78,4 +78,5 @@ Shangsong Liang, Zhaochun Ren, **Yukun Zhao**, Jun Ma, Emine Yilmaz, Maarten De 
 
 ## Contact
 
-- **Email**: yukunzhao.sdu@gmail.com / zhaoyukun@sdu.edu.cn
+- **Email**: zhaoyukun@sdu.edu.cn
+- **Address**: 3rd Floor, Building B, Luneng Technology Building, Central Campus, Shandong University, Jinan, Shandong Province, China
