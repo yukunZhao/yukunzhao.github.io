@@ -78,4 +78,3 @@ Shangsong Liang, Zhaochun Ren, **Yukun Zhao**, Jun Ma, Emine Yilmaz, Maarten De 
 ## Contact
 
 - **Email**: yukunzhao.sdu@gmail.com / zhaoyukun@sdu.edu.cn
-- **GitHub**: [github.com/yukunzhao](https://github.com/yukunzhao)
