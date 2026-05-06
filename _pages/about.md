@@ -25,7 +25,7 @@ His research has been published at top-tier conferences such as ACL, NAACL, COLI
 - Retrieval-Augmented Generation (RAG)
 - Multimodal Learning
 
-## Publications
+## Selected Publications
 
 **Task Knowledge Injection via Interpolations and Reinstatement for Large Language Model Generalization**  
 ACL 2025 Findings (CCF A)  
