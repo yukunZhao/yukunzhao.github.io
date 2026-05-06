@@ -4,6 +4,4 @@ author_profile: true
 permalink: /talks/
 ---
 
-## Talks
-
 *Coming soon...*

@@ -58,6 +58,10 @@ SIGIR 2016 (CCF A)
 WISE 2016 (CCF B)  
 **Yukun Zhao**, Shangsong Liang, Jun Ma
 
+**Inferring Dynamic User Interests in Streams of Short Texts for User Clustering**  
+TOIS 2017 (CCF A)  
+Shangsong Liang, Zhaochun Ren, **Yukun Zhao**, Jun Ma, Emine Yilmaz, Maarten De Rijke
+
 ## Education
 
 - **Ph.D.** in Computer Science and Technology, Shandong University, 2020 - 2024
