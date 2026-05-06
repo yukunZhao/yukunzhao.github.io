@@ -6,49 +6,19 @@
 
 **Shandong University** , School of Computer Science and Technology, _Ph.D._ 2020.09 - 2024.09 **Shandong University** , School of Computer Science and Technology, _M.S._ 2014.09 - 2017.06 **Northeastern University** , School of Software, _B.S._ 2010.09 - 2014.06 
 
-## CAREER 
+## CAREER
 
-## **Shandong University** , School of Artificial Intelligence, Associate Professor 
+**Shandong University** , School of Artificial Intelligence, Associate Professor, 2025.12 - Now
 
-2025.12 - Now 
+**Baidu Inc.** , Search Strategy Department, Staff Engineer, 2020.09 - 2025.12
 
-- Research Interests: NLP & IR, specializing in LLM reasoning, complex reasoning, and language agents. 
+**Alibaba Group** , Recommendation Algorithm Department, Senior Engineer, 2019.04 - 2020.09
 
-**Baidu Inc.** , Search Strategy Department, Staff Engineer 2020.09 - 2025.12 
+**JD.com, Inc.** , Recommendation Algorithm Department, Engineer, 2017.06 - 2019.04
 
-- RAG in Multimodal Search & QA Teams, one of the Tech Leads. 
+**Baidu Inc.** , Search Algorithm Department, Intern, 2016.09 - 2017.01
 
-   - Improving captioning, VQA in Multimodal Search via multimodal Retrieval-Augmented Generation (RAG) on MLLMs. One research paper on instruction optimization for MLLMs has been published on NAACL’24. 
-
-   - Focusing on the trustworthiness of RAG in LLMs for Baidu Web Search. To address practical challenges in the scenario such as hallucination and robustness, I publish three top-tier conference papers (ACL/NAACL/COLING 25/24). 
-
-- MRC in Question Answering Team, Tech Lead. 
-
-   - In the pre-ChatGPT era, improving Machine Reading Comprehension (MRC) of the language models in QA System with debiasing, data augmentation, multi-model distillation, and multi-task learning. One research paper on debiasing has been published to AAAI’23. 
-
-- Dialogue System Team, Tech Lead. 
-
-   - In charge of the dialogue system, including retrieval, multi-objective ranking, dispatching, and dialogue quality evaluation. Based on the real user setting, we released a large-scale dialogue quality assessment benchmark in EMNLP’24. 
-
-**Alibaba Group** , Recommendation Algorithm Department, Senior Engineer. 2019.04 - 2020.09 
-
-- Taobao APP Homepage ”Guess You Like” Recommendation, Core Developer. 
-
-   - Improving click-through rate (CTR) through deep user interest modeling, location-based contextual modeling (LBS), and MMOE (Multi-gate Mixture-of-Experts) techniques. 
-
-**JD.com, Inc.** , Recommendation Algorithm Department, Engineer 2017.06 - 2019.04 
-
-- Jingdong APP Homepage ”Guess You Like” Recommendation, Core Developer. 
-
-- Improving retrieval performance using graph embedding and user/item collaborative filtering, and ranking performance through feature engineering to increase final CTR, CVR, and GMV. 
-
-- **Baidu Inc.** , Search Algorithm Department, Intern 2016.09 - 2017.01 
-
-- News Recommendation in Baidu Web Search. 
-
-**Microsoft Research Asia (MSRA)** , NLP Computing Group, Intern 2016.05 - 2016.08 
-
-- Evaluating Response Relevance in Dialogue Systems. 
+**Microsoft Research Asia (MSRA)** , NLP Computing Group, Intern, 2016.05 - 2016.08
 
 ## PUBLICATIONS 
 
