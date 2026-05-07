@@ -71,10 +71,12 @@ Shangsong Liang, Zhaochun Ren, **Yukun Zhao**, Jun Ma, Emine Yilmaz, Maarten De 
 
 ## Career
 
-- **Shandong University**, 2025 - Present
-- **Baidu Inc.**, 2020 - 2025
-- **Alibaba Group**, 2019 - 2020
-- **JD.com, Inc.**, 2017 - 2019
+- **Shandong University**, Associate Professor, 2025 - Present
+- **Baidu Inc.**, Staff Algorithm Engineer, 2020 - 2025
+- **Alibaba Group**, Senior Algorithm Engineer, 2019 - 2020
+- **JD.com, Inc.**, Algorithm Engineer, 2017 - 2019
+- **Baidu Inc.**, Intern, 2016.09 - 2017.01
+- **Microsoft Research Asia**, Intern, 2016.05 - 2016.08
 
 ## Contact
 
